@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+            android:id="@+id/home_menu"
+            android:title="home"
+            android:icon="@drawable/nav_button_home"
+            android:state_checked="true"/>
+
+
+    <item
+        android:id="@+id/home_pariwisata"
+        android:title="wisata"
+        android:icon="@drawable/nav_button_wisata"/>
+    <item
+        android:id="@+id/home_mobil"
+        android:title="mobil"
+        android:icon="@drawable/nav_button_mobil"/>
+    <item
+        android:id="@+id/home_villa"
+        android:title="vila"
+        android:icon="@drawable/nav_button_villa"/>
+    <item
+        android:id="@+id/home_akun"
+        android:title="akun"
+        android:icon="@drawable/nav_button_akun"/>
+</menu>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lepas Suntuk</string>
+    <string name="title_home">Home</string>
+    <string name="title_wisata">Wisata</string>
+    <string name="title_mobil">Mobil</string>
+    <string name="title_villa">Villa</string>
+    <string name="title_akun">Akun</string>
+    <string name="error_maintenance">Tidak ada koneksi internet</string>
+</resources>

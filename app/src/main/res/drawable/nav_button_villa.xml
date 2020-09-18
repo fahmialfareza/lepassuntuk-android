@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <!--state is enabled and checked-->
+    <item  android:drawable="@drawable/villa_aktif"   android:state_checked="true" />
+    <!--state is enabled and not checked-->
+    <item  android:drawable="@drawable/villa" android:state_checked="false" />
+    <!--state (menu item) is disabled -->
+</selector>
